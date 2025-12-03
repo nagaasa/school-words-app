@@ -1,0 +1,1 @@
+const VOCAB = [{ jp:'学校', romaji:'Gakkō', np:'विद्यालय', kata:'ビディャーラヤ', key:'school' }];
